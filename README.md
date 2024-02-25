@@ -35,10 +35,13 @@ textarea: Styles textareas to have a width of 100%, padding, border, border-radi
 p: Styles paragraphs to have a bold font weight and a margin below them.
 
 ![Picture1](https://github.com/Naveezzz/Webpage-for-an-ecommerce-platform/assets/158978426/7fae1035-350f-44f9-a822-c7732d88ea19)
+
 Home Page : It is the home page of our website which gives personalized and common recommendations to users. Users can get their recommendations easily.
 
 ![Picture2](https://github.com/Naveezzz/Webpage-for-an-ecommerce-platform/assets/158978426/4a340d43-b08e-4097-8ffc-ea27ddc4c244)
+
 It demonstrates the page where the user can get their personalized recommendation by entering their user-id and number of recommendations. Our system will provide the recommendations after entering the user-id.
 
 ![Picture3](https://github.com/Naveezzz/Webpage-for-an-ecommerce-platform/assets/158978426/03211777-c203-4878-90e0-b11d83cd55b5)
+
 It demonstrates the page where the user can get their common recommendation by entering the number of recommendations. Our system will provide the recommendations based on the highest rating products.
